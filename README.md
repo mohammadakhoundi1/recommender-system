@@ -42,7 +42,7 @@ cd <repository_directory>
 **2. Initialize a virtual environment:**
 bash
 # Using standard venv module
-conda create --name retail_env python=3.11
+conda create --name retail_env python=3.12.13
 
 
 **3. Install required dependencies:**
