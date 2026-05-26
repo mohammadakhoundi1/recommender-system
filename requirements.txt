@@ -1,0 +1,7 @@
+umap-learn
+gensim
+numpy
+panda
+matplotlib
+plotly
+sklearn
