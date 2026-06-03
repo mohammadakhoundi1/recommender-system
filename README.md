@@ -1,7 +1,7 @@
 # Customer Retail Prediction 
 
 ##  Abstract & Project Overview
-This repository houses a comprehensive machine learning pipeline designed to model, predict, and analyze customer behavior within retail environments. Traditional transactional modeling often struggles with the high-dimensional, sparse nature of retail data. To overcome this, this project transitions raw interaction logs into continuous, high-dimensional vector spaces, leveraging advanced representation learning and non-linear dimensionality reduction.
+This repository houses a comprehensive machine learning pipeline designed to model, predict, and analyze customer behavior within retail environments.
 
 
 ##  Dataset
